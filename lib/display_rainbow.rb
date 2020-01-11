@@ -2,13 +2,13 @@
 
 def display_rainbow(colors)
   
-  puts "R: #{colors[0]}\n"
-  puts "O: #{colors[1]}\n"
-  puts "Y: #{colors[2]}\n"
-  puts "G: #{colors[3]}\n"
-  puts "B: #{colors[4]}\n"
-  puts "I: #{colors[5]}\n"
-  puts "V: #{colors[6]}\n"
+  print "R: #{colors[0]}\n"
+  print "O: #{colors[1]}\n"
+  print "Y: #{colors[2]}\n"
+  print "G: #{colors[3]}\n"
+  print "B: #{colors[4]}\n"
+  print "I: #{colors[5]}\n"
+  print "V: #{colors[6]}\n"
   
 end
 
